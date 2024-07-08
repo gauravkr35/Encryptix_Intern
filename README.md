@@ -1,1 +1,8 @@
-# Encryptix_Intern
+ENCRYPTIX INTERNSHIP PROGRAM Projects on Data Science with Python .
+
+Task 1 - IRIS FLOWER CLASSIFICATION .
+
+Task 2 - SALES PREDICTION USING PYTHON .
+
+Task 3 - TITANIC SURVIVAL PREDICTION .
+
